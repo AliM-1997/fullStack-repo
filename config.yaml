@@ -1,0 +1,4 @@
+#yaml
+serverIP: "192.168.0.1"
+localIP: "127.0.0.1"
+connect: true
